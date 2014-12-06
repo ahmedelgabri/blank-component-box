@@ -1,0 +1,32 @@
+{
+  "name": "blank-css-box",
+  "version": "0.1.0",
+  "description": "Box component for blank-css",
+  "main": "box.css",
+  "homepage": "https://github.com/ahmedelgabri/blank-component-box",
+  "authors": [
+    "Ahmed El Gabri <ahmed@gabri.me>"
+  ],
+  "keywords": [
+    "scss",
+    "sass",
+    "css",
+    "bem",
+    "oocss",
+    "blank",
+    "blank-css",
+    "box"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "blank-css-config": "~0.1.0",
+    "blank-css-rem": "~0.1.0"
+  }
+}
